@@ -25,3 +25,26 @@ What makes it interesting:
 
    ```bash
    https://github.com/angel-christian/animal-kingdom-sidebar.git
+
+2. Open index.html in your browser.
+
+Make sure all files — index.html, style.css, and lion.jpg — are in the same folder.
+
+🛠️ Technologies Used
+HTML5
+
+CSS3 (Flexbox, Transitions)
+
+Font Awesome (for icons)
+
+Google Fonts (Poppins)
+
+🙋‍♂️ Author
+Angel Christian
+Bachelor’s in Computer Engineering
+LinkedIn
+“The best is yet to come.”
+
+📬 Feedback & Suggestions
+Feel free to open issues or suggest improvements.
+I'm learning — and every suggestion helps me grow!
