@@ -23,5 +23,5 @@ What makes it interesting:
 ## 🚀 How to Use
 
 1. Clone or Download this repository
-2. ```bash
+```bash
 git clone https://github.com/angel-christian/animal-kingdom-sidebar.git
