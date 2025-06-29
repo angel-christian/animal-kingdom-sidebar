@@ -31,6 +31,7 @@ What makes it interesting:
 Make sure all files — index.html, style.css, and lion.jpg — are in the same folder.
 
 🛠️ Technologies Used
+
 HTML5
 
 CSS3 (Flexbox, Transitions)
@@ -42,7 +43,7 @@ Google Fonts (Poppins)
 🙋‍♂️ Author
 Angel Christian
 Bachelor’s in Computer Engineering
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/angel-christian-128l106/
 “The best is yet to come.”
 
 📬 Feedback & Suggestions
