@@ -32,7 +32,7 @@ Make sure all files — index.html, style.css, and lion.jpg — are in the same 
 
 ---
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML5
 
@@ -44,7 +44,7 @@ Google Fonts (Poppins)
 
 ---
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 
 Angel Christian
 
@@ -56,7 +56,7 @@ LinkedIn: https://www.linkedin.com/in/angel-christian-128l106/
 
 ---
 
-📬 Feedback & Suggestions
+## 📬 Feedback & Suggestions
 
 Feel free to open issues or suggest improvements.
 
