@@ -1,8 +1,8 @@
-# animal-kingdom-sidebar
-A responsive sidebar built using HTML and CSS. No JavaScript involved.
 # 🦁 Animal Kingdom - Sidebar Navigation (HTML + CSS)
 
-This is a mini web project showcasing a responsive and interactive sidebar — built entirely using **HTML and CSS**, without a single line of JavaScript.
+A responsive sidebar built using HTML and CSS. No JavaScript involved.
+
+---
 
 ## 🔍 About the Project
 
@@ -19,9 +19,9 @@ What makes it interesting:
 
 ---
 
-
 ## 🚀 How to Use
 
-1. Clone or Download this repository
-```bash
-git clone https://github.com/angel-christian/animal-kingdom-sidebar.git
+1. Clone or download this repository:
+
+   ```bash
+   git clone https://github.com/angel-christian/animal-kingdom-sidebar.git
