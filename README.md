@@ -24,4 +24,4 @@ What makes it interesting:
 1. Clone or download this repository:
 
    ```bash
-   git clone https://github.com/angel-christian/animal-kingdom-sidebar.git
+   https://github.com/angel-christian/animal-kingdom-sidebar.git
