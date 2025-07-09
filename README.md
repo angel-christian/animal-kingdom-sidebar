@@ -32,6 +32,12 @@ Make sure all files — index.html, style.css, and lion.jpg — are in the same 
 
 ---
 
+## Live Demo :
+
+https://angel-christian.github.io/animal-kingdom-sidebar/
+
+---
+
 ## 🛠️ Technologies Used
 
 HTML5
